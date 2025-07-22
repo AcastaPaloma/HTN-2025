@@ -1,19 +1,20 @@
+# HTN 2025 Application Portfolio
 
-# 🎉 HTN 2025 – Hack the North Application
+Thanks for checking out my work! Here are the projects from my essay:
 
-Hey there! 👋 Thanks for taking the time to check out my work. Below are some of the projects I mentioned in my application essay. Keep dreamin' and buildin' 
+## 🎤 Piñata Pitch
+*Montreal's largest student tech pitch competition*
+- **Platform**: [pinatapitch.tech](https://pinatapitch.tech)
+- **Event Recap**: [2025 Flagship Results](https://www.pinatapitch.tech/archive/2025/pinatapitch)
 
-* **🎤 Pinata Pitch** – *Our flagship event platform*
-  [🌐 pinatapitch.tech](https://pinatapitch.tech)
-  
-  [🌐 Flagship event recap](https://www.pinatapitch.tech/archive/2025/pinatapitch)
+## ⏱️ Tempulse
+*Time tracking app with customizable analytics*
+- **Live App**: [app.tempulse.work](https://app.tempulse.work)
+- **Demo**: [YouTube](https://youtu.be/unQ9wajQmlE)
 
-* **⏱️ Tempulse** – *A sleek, powerful time tracker for Pinata Pitch's team*
-  [🌐 app.tempulse.work](https://app.tempulse.work)
-  
-  [Demo](https://youtu.be/unQ9wajQmlE)
+## 🏋️ Tracks
+*Spotify extension for workout music optimization*
+- **Project**: [Devpost](https://devpost.com/software/tracks-vb3u0l)
 
-* **🏋️ Tracks** – *A personal gym companion built for Pinata Pitch's team too lol*
-  [🔗 Devpost Project](https://devpost.com/software/tracks-vb3u0l)
-
-
+---
+*Keep dreamin' and buildin'! 🚀*
