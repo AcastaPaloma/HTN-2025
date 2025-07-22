@@ -5,7 +5,7 @@ Hey there! 👋 Thanks for taking the time to check out my work. Below are some 
 
 * **🎤 Pinata Pitch** – *Our flagship event platform*
   [🌐 pinatapitch.tech](https://pinatapitch.tech)
-  [🌐 Flagship event recap]([https://pinatapitch.tech](https://www.pinatapitch.tech/archive/2025/pinatapitch))
+  [🌐 Flagship event recap](https://www.pinatapitch.tech/archive/2025/pinatapitch)
 
 * **⏱️ Tempulse** – *A sleek, powerful time tracker for Pinata Pitch's team*
   [🌐 app.tempulse.work](https://app.tempulse.work)
