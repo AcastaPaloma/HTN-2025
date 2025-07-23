@@ -8,7 +8,7 @@ Thanks for checking out my work! Here are the projects from my essay:
 - **Event Recap**: [2025 Flagship Results](https://www.pinatapitch.tech/archive/2025/pinatapitch)
 
 ## ⏱️ Tempulse
-*Time tracking app with customizable analytics built for the Pinata pitch team*
+*Time tracking app with customizable analytics built for the Pinata Pitch team*
 - **Live App**: [app.tempulse.work](https://app.tempulse.work)
 - **Demo**: [YouTube](https://youtu.be/unQ9wajQmlE)
 
